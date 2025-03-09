@@ -1,7 +1,7 @@
 # Break-it
 
 ## Overview
-**Bounce Arcade** is an interactive arcade-style game built with JavaScript. The game involves bouncing a ball off paddles and obstacles while trying to achieve the highest possible score. 
+**Bounce Arcade** is an interactive arcade-style game built with Python. The game involves bouncing a ball off paddles and obstacles while trying to achieve the highest possible score. 
 
 ## Features
 - Simple and engaging arcade gameplay
