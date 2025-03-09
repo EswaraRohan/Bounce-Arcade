@@ -1,25 +1,30 @@
 # Break-it
 
+## Overview
+**Bounce Arcade** is an interactive arcade-style game built with JavaScript. The game involves bouncing a ball off paddles and obstacles while trying to achieve the highest possible score. 
+
+## Features
+- Simple and engaging arcade gameplay
+- Smooth ball physics and paddle controls
+- Multiple levels of difficulty
+- Score tracking and high-score persistence
+- Responsive UI for different screen sizes
+
 This game is a terminal version of DX-Ball. 
 
 ![game play](./game1.png)
 ![boss level](./game2.png)
 
 ## Rules
-
-**a** - To move left
-
-**d** - To move right
-
-**space** - To release ball
-
-**n** - To skip level
-
-[comment]: <> (**s** - To shoot bullet)
-**.** - To drop bombs from Boss
-
-**q** - To quit
-
+```bash
+a - To move left
+d - To move right
+space - To release ball
+n- To skip level
+s - To shoot bullet
+. - To drop bombs from Boss
+q - To quit
+```
 ## Features
 
 * Initially, the ball would appear randomly on any part of the paddle. The player can move and release the
